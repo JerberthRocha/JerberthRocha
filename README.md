@@ -6,5 +6,5 @@
 Here are some ideas to get you started:
 -->
 
-- Bacharel em Ciência da Computação
+- Formado em Ciência da Computação
 - Estudando Python
