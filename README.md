@@ -1,4 +1,4 @@
-### Olá, eu sou o Jerberth Rocha.  👋
+### Olá!  👋
 
 <!-- ![Jerberth Rocha's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerberthRocha&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerberthRocha&layout=compact)](https://github.com/JerberthRocha/github-readme-stats)
