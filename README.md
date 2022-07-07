@@ -4,9 +4,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerberthRocha&layout=compact)](https://github.com/JerberthRocha/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerberthRocha&langs_count=8)](https://github.com/JerberthRocha/github-readme-stats) -->
 
+<!--[![Email](https://img.shields.io/badge/jerberthsilva@gmail.com-D14836??style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/JerberthRocha)-->
 
-
-Email: jerberthrs@gmail.com
+[![Email](https://img.shields.io/badge/jerberthrs@gmail.com-F40101??style=for-the-badge&logo=gmail&logoColor=white)](mailto:jerberthrs@gmail.com)
 
 ### Tecnologias que estou estudando
 
