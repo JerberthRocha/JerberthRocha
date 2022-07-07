@@ -4,6 +4,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerberthRocha&layout=compact)](https://github.com/JerberthRocha/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerberthRocha&langs_count=8)](https://github.com/JerberthRocha/github-readme-stats) -->
 
+
+
+Email: jerberthrs@gmail.com
+
 ### Tecnologias que estou estudando
 
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/JerberthRocha)
