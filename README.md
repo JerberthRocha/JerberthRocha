@@ -6,8 +6,8 @@
 
 <!--[![Email](https://img.shields.io/badge/jerberthsilva@gmail.com-D14836??style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/JerberthRocha)-->
 
-[![Email](https://img.shields.io/badge/jerberthrs@gmail.com-F40101??style=for-the-badge&logo=gmail&logoColor=white)](mailto:jerberthrs@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5??style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerberth-rocha/)
+[![Email](https://img.shields.io/badge/jerberthrs@gmail.com-F40101??style=for-the-badge&logo=gmail&logoColor=white)](mailto:jerberthrs@gmail.com)
 
 <!--
 - DOIS PONTOS DE INTERROGAÇÃO (F40101??) = LETRAS MINÚSCULAS
